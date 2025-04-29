@@ -21,18 +21,16 @@ A web-based dashboard application that allows sellers to manage their products e
 
 ## Deployment
 
-**Live Demo**: [View Deployed Application](https://product-management-dashboard-sand.vercel.app/)  
+**Live Demo**: [View Deployed Application](https://seller-product-dashboard.vercel.app/)  
 
 ### Deployment Screenshots
 
 | Page | Screenshot | Description |
 |------|------------|-------------|
 | 1    | ![Page1](ss/page1.png) | Dashboard Overview up  |
-| 2    | ![Page2](ss/page2.png) | Dashboard Overview  down side  |
-| 3    | ![Page3](ss/page3.png) | Middle size Screen|
-| 4    | ![Page4](ss/page4.png) | Smart Phone screan view |
-| 5    | ![page5](ss/page5.png) | Add product |
-
+| 2    | ![Page3](ss/page2.png) |  Add product |
+| 3    | ![Page4](ss/page3.png) | Smart Phone screan view |
+ 
 ---
 ## Installation
 
